@@ -28,7 +28,7 @@ p {
 
 .container {
     margin: auto;
-    max-width: 1980px;
+    max-width: 1200px;
     overflow: auto;
     padding: 0 20px;
 }
@@ -139,7 +139,7 @@ p {
 /* Showcase */
 
 #showcase {
-    background: url(/hotel_website/img/showcase.jpg) no-repeat center center/cover;
+    background: url(/img/showcase.jpg) no-repeat center center/cover;
     height: 600px;
 }
 
@@ -168,7 +168,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url('/hotel_website/img/photo-1.jpg') no-repeat;
+    background: url(/img/photo-1.jpg) no-repeat;
     min-height: 100%;
 }
 
@@ -223,7 +223,7 @@ p {
 
 #testimonials {
     height: 100%;
-    background: url('/hotel_website/img/test-bg.jpg') no-repeat center center/cover;
+    background: url(/img/test-bg.jpg) no-repeat center center/cover;
     padding-top: 100px;
 }
 
